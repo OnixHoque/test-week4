@@ -3,3 +3,14 @@
 int main(){
 	return 0;
 }
+
+<<<<<<< HEAD
+int add (int x, int y)
+{
+	return x + y;
+=======
+int sub(int x, int y)
+{
+	return x - y;
+>>>>>>> b8e2714fea3912b12c87ea3e5027389934234316
+}
